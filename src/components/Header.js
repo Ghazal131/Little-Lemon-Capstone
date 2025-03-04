@@ -15,7 +15,7 @@ const Header = () => {
                 </div>
 
                 <div className="banner-img">
-                    <img src={bannerImg} alt='' />
+                    <img src={banner-img} alt='' />
                 </div>
             </section>
         </header>
